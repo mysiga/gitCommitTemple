@@ -11,3 +11,4 @@ git config  commit.template 模板绝对路径
 ```
 git config --global commit.template 模板绝对路径
 ```
+test

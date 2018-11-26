@@ -20,7 +20,7 @@ git config  commit.template /x/.simple-commit-template.txt
 ```
 vim ~/.gitconfig
 ```
-然后把commit相关选项注释就可以了如：
+然后把commit相关选项注释或者删除就可以了如：
 ```
 #[commit]
 #       template = ../tool/.simple-commit-template.txt
